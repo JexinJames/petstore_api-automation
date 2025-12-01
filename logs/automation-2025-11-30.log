@@ -1,0 +1,8 @@
+2025-11-30 19:49:48.814 [main] INFO   api.test.UserTests - ****************** creating user ******************
+2025-11-30 19:49:52.491 [main] INFO   api.test.UserTests - ****************** user created completed ******************
+2025-11-30 19:49:52.513 [main] INFO   api.test.UserTests - ****************** retrieving user ******************
+2025-11-30 19:49:54.040 [main] INFO   api.test.UserTests - ****************** user retrieved ******************
+2025-11-30 19:49:54.051 [main] INFO   api.test.UserTests - ****************** updating user ******************
+2025-11-30 19:49:55.578 [main] INFO   api.test.UserTests - ****************** user updated ******************
+2025-11-30 19:49:55.588 [main] INFO   api.test.UserTests - ****************** deleting user ******************
+2025-11-30 19:49:57.051 [main] INFO   api.test.UserTests - ****************** user deleted ******************
